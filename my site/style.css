@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=BhuTuka+Expanded+One&family=Oswald:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300&display=swap');
+, body {
+  height: 100%;
+  width: 100%;
+  background-color: #ffffff;
+    text-align:center ; 
+}
+ol {
+  list-style-type: none;
+}
+.nav {
+  background-color: #ffffff;
+  color: black;
+  width: 150px;
+height:650px
+  padding: 20px;
+    border: 3px solid black;
+  display: inline-block;
+  margin: 3 px ;
+  font-family: 'Oswald', sans-serif;
+}
+.nav:hover {
+  cursor: pointer;
+  background-color: white;
+  border: 10px solid #656165;
+  font-size: 20px;
+  transition:all 1s ;
+  color: black;
+  text-transform: uppercase;
+}
+.texttt {
+  border: 3px solid black;
+  background-color: #ffffff;
+  width: 450px;
+  padding: 10px;
+  margin: auto;
+  font-family: 'Oswald', sans-serif;
+}
+.texte2 {
+  font-family: 'Oswald', sans-serif;
+  text-align:center ; 
+}
+.photik {
+  text-align: center;
+}
+.shf {
+  font-family: 'Oswald', sans-serif;
+  text-align: center;
+}
+.a {
+  text-decoration:none;
+  color: black;
+}
+.shf2 {
+  font-family: 'Oswald', sans-serif;
+  text-align: center;
+border: 3px solid black;
+  border-radius: 25px 25px 25px 25px;
+}
+.textvariant {
+  font-family: 'BhuTuka Expanded One', cursive;
+  text-align: center;
+  border: 3px solid black;
+  border-radius: 25px 25px 25px 25px;
+}
